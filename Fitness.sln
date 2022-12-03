@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitness.CMD", "Fitness.CMD\Fitness.CMD.csproj", "{185FDC4C-AE45-4FF3-A410-9487D3E96C3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{0DCCE6BB-97DB-4124-84C8-31A75E22A4C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{185FDC4C-AE45-4FF3-A410-9487D3E96C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185FDC4C-AE45-4FF3-A410-9487D3E96C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185FDC4C-AE45-4FF3-A410-9487D3E96C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185FDC4C-AE45-4FF3-A410-9487D3E96C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DCCE6BB-97DB-4124-84C8-31A75E22A4C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCCE6BB-97DB-4124-84C8-31A75E22A4C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCCE6BB-97DB-4124-84C8-31A75E22A4C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCCE6BB-97DB-4124-84C8-31A75E22A4C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
